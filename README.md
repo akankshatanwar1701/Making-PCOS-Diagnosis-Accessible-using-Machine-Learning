@@ -33,16 +33,16 @@ After the pre-processing step of the dataset, the following methods were used to
 
 After plotting the heat map, the following features were were closely related to the target feature, arranged in descending order:
 
-Follicle L and Follicle R
-Skin Darkening
-Hair growth
-Weight Gain
-Cycle (R/I)
-Fast Food 
-Pimples
-AMH levels
-Weight
-BMI 
+* Follicle L and Follicle R
+* Skin Darkening
+* Hair growth
+* Weight Gain
+* Cycle (R/I)
+* Fast Food 
+* Pimples
+* AMH levels
+* Weight
+* BMI 
 
 ## References  
 ----------------------------
