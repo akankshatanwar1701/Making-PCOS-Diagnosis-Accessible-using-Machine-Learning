@@ -42,6 +42,17 @@ After plotting the heat map, the following features were were closely related to
 * AMH levels
 * Weight
 * BMI 
+  
+The above features were then detected and analyzed to catch any high correlation amongst each other for feature elimination (keeping the threshold as ~0.35) 
+  
+Weight Gain with Weight: 0.42  
+Weight with BMI: 0.45  
+Follicle Left with Follicle Right: 0.8  
+BMI with Weight gain: 0.45  
+Fast food with Weight Gain: 0.37  
+  
+  
+Hence, from the above list we’ll be only considering ‘Weight Gain’.
 
 ## References  
 ----------------------------
