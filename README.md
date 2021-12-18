@@ -14,19 +14,34 @@ We performed feature selection to find the important attributes to detect PCOS. 
   
 After the pre-processing step of the dataset, the following methods were used to understand the most relevant features:
 
-*Chi-Square Method
-*Correlation Matrix
-*Extra Tree Classifier
+* Chi-Square Method  
+* Correlation Matrix  
+* Extra Tree Classifier  
 
 ### Chi-Square Method
 -------------------------
 
-### Correlation Matrix
--------------------------
+![alt text](https://github.com/akankshatanwar1701/Making-PCOS-Diagnosis-Accessible-using-Machine-Learning/blob/main/src/Screenshot%20(460).png "Top 10 Features using Chi-Square Method")
 
 ### Extra Tree Classifier
 -------------------------
-  
+![alt text]( "")
+
+### Correlation Matrix
+-------------------------
+
+After plotting the heat map, the following features were were closely related to the target feature, arranged in descending order:
+
+* Follicle L and Follicle R
+* Skin Darkening
+* Hair growth
+* Weight Gain
+* Cycle (R/I)
+* Fast Food 
+* Pimples
+* AMH levels
+* Weight
+* BMI 
 
 ## References  
 ----------------------------
