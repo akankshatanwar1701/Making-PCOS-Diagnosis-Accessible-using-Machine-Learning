@@ -10,12 +10,22 @@ Polycystic Ovary Syndrome (PCOS) is very common, but it remains undiagnosed and 
   
 Here, figuring out some parameters which are easily measurable at home and are less invasive becomes a crucial part of our research. Not only the features should be easily measurable but should have a high correlation with diagnostic accuracy.
   
-We performed feature selection to find the important attributes to detect PCOS. In order to do that we are using a dataset of 541 data points with 41 attributes like Weight Gain, Follicles in the left/Right ovary, LHS levels, Hair loss, BMI, Pimples etc. It is important to note here, due to very limited prior research being done in this field it becomes increasingly hard to obtain multiple datasets.  
+We performed feature selection to find the important attributes to detect PCOS. In order to do that we are using a Kaggle dataset of 541 data points with 41 attributes like Weight Gain, Follicles in the left/Right ovary, LHS levels, Hair loss, BMI, Pimples etc. It is important to note here, due to very limited prior research being done in this field it becomes increasingly hard to obtain multiple datasets.  
   
+After the pre-processing step of the dataset, the following methods were used to understand the most relevant features:
 
-  
+*Chi-Square Method
+*Correlation Matrix
+*Extra Tree Classifier
 
-  
+### Chi-Square Method
+-------------------------
+
+### Correlation Matrix
+-------------------------
+
+### Extra Tree Classifier
+-------------------------
   
 
 ## References  
