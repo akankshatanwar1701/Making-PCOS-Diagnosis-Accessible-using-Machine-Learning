@@ -18,7 +18,7 @@ We performed feature selection to find the important attributes to detect PCOS. 
   
   
 
-## Refernces  
+## References  
 ----------------------------
   
 1. Bozdag G, Mumusoglu S, Zengin D, Karabulut E, Yildiz BO. The prevalence and phenotypic features of polycystic ovary syndrome: a systematic review and meta-analysis. Human Reproduction. 2016 Nov 17;31(12):2841-55.
