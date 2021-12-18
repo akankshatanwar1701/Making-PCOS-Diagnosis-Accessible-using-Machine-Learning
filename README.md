@@ -59,7 +59,8 @@ After using 3 different statistical methods to pick out the best features that c
 
 * Currently working on experimenting with various models on the above selected features to get the best maximum accuracy.      
 * Building a web-app, which is accessible, easy to use and can be treated as a safe at home tool for PCOS pre-diagnosis, until proper medical care can be provided. 
-* Hosting the web-app on Heroku!     
+* Hosting the web-app on Heroku!   
+    
 ![alt text](https://github.com/akankshatanwar1701/Making-PCOS-Diagnosis-Accessible-using-Machine-Learning/blob/main/src/Screenshot%20(462).png "Web App")
 
 ## References  
