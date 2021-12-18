@@ -14,9 +14,9 @@ We performed feature selection to find the important attributes to detect PCOS. 
   
 After the pre-processing step of the dataset, the following methods were used to understand the most relevant features:
 
-*Chi-Square Method
-*Correlation Matrix
-*Extra Tree Classifier
+*Chi-Square Method  
+*Correlation Matrix  
+*Extra Tree Classifier  
 
 ### Chi-Square Method
 -------------------------
