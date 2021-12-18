@@ -21,10 +21,11 @@ After the pre-processing step of the dataset, the following methods were used to
 ### Chi-Square Method
 -------------------------
 
-![alt text](https://github.com/akankshatanwar1701/Making-PCOS-Diagnosis-Accessible-using-Machine-Learning/blob/main/src/Screenshot%20(460).png "Top 20 Features using Chi-Square Method")
-
+![alt text](https://github.com/akankshatanwar1701/Making-PCOS-Diagnosis-Accessible-using-Machine-Learning/blob/main/src/Screenshot%20(460).png "Top 20 Features using Chi-Square Method")  
+  
 ### Extra Tree Classifier
 -------------------------
+  
 ![alt text](https://github.com/akankshatanwar1701/Making-PCOS-Diagnosis-Accessible-using-Machine-Learning/blob/main/src/Screenshot%20(461).png "Top Top 20 Features using ETC")
 
 ### Correlation Matrix
@@ -46,11 +47,11 @@ After plotting the heat map, the following features were were closely related to
 -----------------
 After using 3 different statistical methods to pick out the best features that can be used for the detection of PCOS easily, the most overlapping and significant ones can be listed as below:  
   
-**Skin Darkening  
-Hair Growth  
-Weight Gain  
-Cycle (R/I)  
-Pimples  **
+**Skin Darkening**  
+**Hair Growth ** 
+**Weight Gain  **
+**Cycle (R/I)  **
+**Pimples**
 
 ---------------------
 
