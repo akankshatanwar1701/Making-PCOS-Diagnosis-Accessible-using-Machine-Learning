@@ -1,4 +1,4 @@
-# Making PCOS Diagnosis Accessible using Machine Learning
+# Making PCOS Diagnosis Accessible using Machine Learning: A Quick Summary of What We Have Been Upto!
 --------------------------------------------
 
 Polycystic Ovary Syndrome is one of the most common reasons for female infertility. Women with PCOS are often insulin resistant, their body can make insulin but can’t use it effectively, which multiplies the risk of diabetes in them. They also have higher levels of androgens (male hormones that females also have), which can stop eggs from being released (ovulation) and cause irregular periods, acne, thinning scalp hair, and excess hair growth on the face and body.  
@@ -10,7 +10,7 @@ Polycystic Ovary Syndrome (PCOS) is very common, but it remains undiagnosed and 
   
 Here, figuring out some parameters which are easily measurable at home and are less invasive becomes a crucial part of our research. Not only the features should be easily measurable but should have a high correlation with diagnostic accuracy.
   
-We performed feature selection to find the important attributes to detect PCOS. In order to do that we are using a Kaggle dataset of 541 data points with 41 attributes like Weight Gain, Follicles in the left/Right ovary, LHS levels, Hair loss, BMI, Pimples etc. It is important to note here, due to very limited prior research being done in this field it becomes increasingly hard to obtain multiple datasets.  
+We performed feature selection to find the important attributes to detect PCOS. In order to do that we are using a Kaggle dataset of 541 data points with 41 attributes like Weight Gain, Follicles in the left/Right ovary, LHS levels, Hair loss, BMI, Pimples etc. It is important to note here, **due to very limited prior research** being done in this field it becomes increasingly hard to obtain multiple datasets.  
   
 After the pre-processing step of the dataset, the following methods were used to understand the most relevant features:
 
@@ -55,6 +55,12 @@ After using 3 different statistical methods to pick out the best features that c
   
 ---------------------
 
+### What Next?
+
+* Currently working on experimenting with various models on the above selected features to get the best maximum accuracy.      
+* Building a web-app, which is accessible, easy to use and can be treated as a safe at home tool for PCOS pre-diagnosis, until proper medical care can be provided. 
+* Hosting the web-app on Heroku!     
+![alt text](https://github.com/akankshatanwar1701/Making-PCOS-Diagnosis-Accessible-using-Machine-Learning/blob/main/src/Screenshot%20(462).png "Web App")
 
 ## References  
 ----------------------------
