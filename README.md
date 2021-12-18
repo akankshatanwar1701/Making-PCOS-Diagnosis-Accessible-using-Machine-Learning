@@ -23,12 +23,11 @@ After the pre-processing step of the dataset, the following methods were used to
 
 ![alt text](https://github.com/akankshatanwar1701/Making-PCOS-Diagnosis-Accessible-using-Machine-Learning/blob/main/src/Screenshot%20(460).png "Top 10 Features using Chi-Square Method")
 
-
-### Correlation Matrix
+### Extra Tree Classifier
 -------------------------
 ![alt text]( "")
 
-### Extra Tree Classifier
+### Correlation Matrix
 -------------------------
 
 After plotting the heat map, the following features were were closely related to the target feature, arranged in descending order:
