@@ -43,16 +43,17 @@ After plotting the heat map, the following features were were closely related to
 * Weight
 * BMI 
   
-The above features were then detected and analyzed to catch any high correlation amongst each other for feature elimination (keeping the threshold as ~0.35) 
+-----------------
+After using 3 different statistical methods to pick out the best features that can be used for the detection of PCOS easily, the most overlapping and significant ones can be listed as below:  
   
-Weight Gain with Weight: 0.42  
-Weight with BMI: 0.45  
-Follicle Left with Follicle Right: 0.8  
-BMI with Weight gain: 0.45  
-Fast food with Weight Gain: 0.37  
-  
-  
-Hence, from the above list we’ll be only considering ‘Weight Gain’.
+**Skin Darkening  
+Hair Growth  
+Weight Gain  
+Cycle (R/I)  
+Pimples  **
+
+---------------------
+
 
 ## References  
 ----------------------------
