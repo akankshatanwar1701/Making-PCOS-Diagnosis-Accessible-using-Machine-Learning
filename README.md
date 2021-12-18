@@ -19,10 +19,15 @@ We performed feature selection to find the important attributes to detect PCOS. 
   
 
 
+1. Bozdag G, Mumusoglu S, Zengin D, Karabulut E, Yildiz BO. The prevalence and phenotypic features of polycystic ovary syndrome: a systematic review and meta-analysis. Human Reproduction. 2016 Nov 17;31(12):2841-55.
 
+2. Broekmans FJ, Knauff EA, Valkenburg O, Laven JS, Eijkemans MJ, Fauser BC. PCOS according to the Rotterdam consensus criteria: change in prevalence among WHO‐II anovulation and association with metabolic factors. BJOG: An International Journal of Obstetrics & Gynaecology. 2006 Oct 1;113(10):1210-7.
 
+3. Christensen SB, Black MH, Smith N, Martinez MM, Jacobsen SJ, Porter AH, et al. Prevalence of polycystic ovary syndrome in adolescents. Fertil Steril. 2013;100(2):470-7.
 
+4. Boyle J, Teede HJ. Polycystic ovary syndrome - an update. Aust Fam Physician. 2012;41(10):752-6.
 
-1. March WA, Moore VM, Willson KJ, Phillips DI, Norman RJ, Davies MJ. The prevalence of polycystic ovary syndrome in a community sample assessed under contrasting diagnostic criteria. Hum Reprod. 2010;25(2):544-51.
-2. Sharif E, Rahman S, Zia Y, Rizk NM. The frequency of polycystic ovary syndrome in young reproductive females in Qatar. International journal of women's health. 2017;9:1.
+5. March WA, Moore VM, Willson KJ, Phillips DI, Norman RJ, Davies MJ. The prevalence of polycystic ovary syndrome in a community sample assessed under contrasting diagnostic criteria. Hum Reprod. 2010;25(2):544-51.
+
+6. Sharif E, Rahman S, Zia Y, Rizk NM. The frequency of polycystic ovary syndrome in young reproductive females in Qatar. International journal of women's health. 2017;9:1.
 
